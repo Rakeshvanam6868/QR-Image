@@ -1,0 +1,16 @@
+{
+  "name": "qr-imagegenerator",
+  "version": "1.0.0",
+  "description": "Generating qr image",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakesh Vanam",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.6",
+    "qr-image": "^3.2.0"
+  }
+}
